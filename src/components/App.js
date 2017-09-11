@@ -1,6 +1,7 @@
 import React from 'react'
 import Canvas from './Canvas'
 
+
 let App = props => {
   return(
     <Canvas
