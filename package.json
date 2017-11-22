@@ -7,7 +7,9 @@
   "author": "Omonori Jesmine <damilolao328@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "webpack-dev-server"
+    "dev": "webpack-dev-server",
+    "flow": "flow"
+
   },
   "dependencies": {
     "react": "^15.5.4",

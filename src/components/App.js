@@ -5,8 +5,8 @@ import Canvas from './Canvas'
 let App = props => {
   return(
     <Canvas
-      width={200}
-      height={100}
+      width={1000}
+      height={500}
     />
   )
 }
